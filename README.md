@@ -5,5 +5,7 @@ Proyek ini ditujukan untuk memenuhi Tugas Akhir Studi Independen Kampus Merdeka,
 
 Nama anggota :
 
-Hanun Salsabila (Universitas Amikom Yogyakarta) NIM 21.11.4144
-Anik Oktavia Utami (Universitas Teknologi Digital Indonesia) NIM 215610005
+1. Anik Oktavia Utami (Universitas Teknologi Digital Indonesia) NIM 215610005
+2. Hanun Salsabila (Universitas Amikom Yogyakarta) NIM 21.11.4144
+
+Link youtube hasil deteksi: https://youtu.be/_KHS8pVmVhc?si=TwEkyPjFpBvm0haU
